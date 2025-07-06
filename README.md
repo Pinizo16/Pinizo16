@@ -37,7 +37,7 @@ I’m a programming student passionate about web development and space explorati
     <td width="50%" align="center">
       <h3><a href="https://github.com/Pinizo16/tupeludoamigo">Tu Peludo Amigo</a></h3>
       <a href="https://github.com/Pinizo/project1">
-        <img src="https://imgur.com/a/wkiBZh4" alt="Project 1 Screenshot" width="300" />
+        <img src="https://i.imgur.com/czQJwUp.png" alt="Project 1 Screenshot" width="300" />
       </a>
       <p>a website about dog care in Ciudad Real</p>
     </td>
