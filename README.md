@@ -1,76 +1,77 @@
 <div align="center">
-  <h1>Hola, soy <a href="https://github.com/Pinizo">Pinizo</a> 👋</h1>
-  <img src="https://i.imgur.com/yourimage.png" alt="Avatar Pinizo" width="150" />
-  
-  [![GitHub followers](https://img.shields.io/github/followers/Pinizo?style=social)](https://github.com/Pinizo)
-  [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/your-channel-id?style=social)](https://youtube.com/yourchannel)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pinizo-blue?style=social&logo=linkedin)](https://linkedin.com/in/tu-linkedin)
+  <h1>Hi, I'm <a href="https://github.com/Pinizo16">Pinizo</a> 👋</h1>
+  <img src="https://yt3.googleusercontent.com/ohlcUNGxpfzVPJvDkFbJ41MKv8BO5ZsoXBpO2XP3HThC7ZlMr1MeR1QOHsWSYDkQHo8SYp4jeg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" alt="Pinizo Banner" width="150" />
 </div>
 
 ---
 
-## Sobre mí
+## About Me
 
-- 🎓 Estudiante programador con pasión por el desarrollo web y el espacio
-- 💡 Apasionado por resolver problemas con código limpio y diseño funcional
-- 🚀 En constante aprendizaje para ser desarrollador web frontend profesional
-- 📫 Contacto: [pinizo.dev@gmail.com](mailto:pinizo.dev@gmail.com)
+I’m a programming student passionate about web development and space exploration. I focus on writing clean, efficient code and building user-friendly interfaces. Currently, I’m improving my skills in JavaScript, HTML, and CSS, with an emphasis on responsive design and modern frontend techniques.
 
 ---
 
-## 🚀 En qué estoy trabajando
+## Current Focus
 
-- Curso avanzado de JavaScript (ES6+)
-- Mejorando CSS: media queries, animaciones, transiciones, posicionamiento
-- Creando proyectos prácticos con enfoque en UX y responsive design
-
----
-
-## 🛠️ Habilidades técnicas
-
-| Lenguajes      | Herramientas           | Otros                              |
-|----------------|-----------------------|-----------------------------------|
-| HTML5          | Git                   | Responsive design                 |
-| CSS3           | Visual Studio Code    | Accesibilidad y usabilidad        |
-| JavaScript     | Figma (básico)        | Buenas prácticas de código         |
+- Completing an advanced JavaScript course (ES6+)
+- Enhancing CSS skills: media queries, animations, transitions, and layout positioning
+- Developing practical projects to apply and deepen my knowledge
+- Striving for better UX and code maintainability
 
 ---
 
-## Proyectos destacados
+## Technical Skills
+
+| Languages  | Tools                | Concepts                      |
+|------------|----------------------|-------------------------------|
+| HTML5      | Git                  | Responsive Design             |
+| CSS3       | Visual Studio Code   | Accessibility & Usability     |
+| JavaScript | Figma (basic)        | Clean Code Practices          |
+
+---
+
+## Selected Projects
 
 <table>
   <tr>
     <td width="50%" align="center">
-      <h3><a href="https://github.com/Pinizo/proyecto1">Proyecto 1</a></h3>
-      <a href="https://github.com/Pinizo/proyecto1">
-        <img src="https://i.imgur.com/example1.png" alt="Proyecto 1" width="300" />
+      <h3><a href="https://github.com/Pinizo16/tupeludoamigo">Tu Peludo Amigo</a></h3>
+      <a href="https://github.com/Pinizo/project1">
+        <img src="https://imgur.com/a/wkiBZh4" alt="Project 1 Screenshot" width="300" />
       </a>
-      <p>Web app con JavaScript avanzado y diseño responsivo.</p>
+      <p>a website about dog care in Ciudad Real</p>
     </td>
     <td width="50%" align="center">
-      <h3><a href="https://github.com/Pinizo/proyecto2">Proyecto 2</a></h3>
-      <a href="https://github.com/Pinizo/proyecto2">
-        <img src="https://i.imgur.com/example2.png" alt="Proyecto 2" width="300" />
+      <h3><a href="https://github.com/Pinizo/project2">Project 2</a></h3>
+      <a href="https://github.com/Pinizo/project2">
+        <img src="https://i.imgur.com/example2.png" alt="Project 2 Screenshot" width="300" />
       </a>
-      <p>Frontend con animaciones CSS y buenas prácticas.</p>
+      <p>...</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🎯 Objetivo
+## Objective
 
-Convertirme en un desarrollador web competente, aportando valor en proyectos reales y colaborando con equipos que desafíen mis límites. Busco seguir aprendiendo y creciendo cada día.
+My goal is to grow into a competent web developer, contributing to meaningful projects and collaborating within teams that challenge me. I’m committed to continuous learning and professional development.
 
 ---
 
-### ⚙️ &nbsp;GitHub Stats
+## Contact
+
+I’m currently focused on learning and building my portfolio.  
+Feel free to explore my repositories or reach out via email: **[pinizo.dev@gmail.com](mailto:pinizo.dev@gmail.com)**
+
+---
+
+### GitHub Stats
 
 <p align="center">
   <a href="https://github.com/Pinizo">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Pinizo&show_icons=true&theme=radical&count_private=true" />
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pinizo&layout=compact&langs_count=6&theme=radical" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Pinizo&show_icons=true&theme=default&count_private=true" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pinizo&layout=compact&langs_count=6&theme=default" />
   </a>
 </p>
 
