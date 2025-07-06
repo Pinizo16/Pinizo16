@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm <a href="https://github.com/Pinizo16">Pinizo</a> 👋</h1>
-  <img src="https://yt3.googleusercontent.com/ohlcUNGxpfzVPJvDkFbJ41MKv8BO5ZsoXBpO2XP3HThC7ZlMr1MeR1QOHsWSYDkQHo8SYp4jeg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" alt="Pinizo Banner" width="150" />
+  <img src="https://yt3.googleusercontent.com/ohlcUNGxpfzVPJvDkFbJ41MKv8BO5ZsoXBpO2XP3HThC7ZlMr1MeR1QOHsWSYDkQHo8SYp4jeg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" alt="Pinizo Banner" width="100%" />
 </div>
 
 ---
