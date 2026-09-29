@@ -1,36 +1,87 @@
-# Pinizo
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Estudiante+Activo;Apasionado+por+la+Tecnolog%C3%ADa;Aprendiendo+Python" alt="Typing SVG" />
-</p>
+# PINIZO
 
-## Sobre mí
+**Student · Developer · Technology**
 
-- **Rol:** Estudiante activo en constante aprendizaje.
-- **Aprendiendo actualmente:** Profundizando en Python y fundamentos de programación.
-- **Colaboraciones:** Abierto a participar en diversos tipos de proyectos.
-- **Áreas de interés:** Desarrollo Web y scripting.
+<br>
 
----
+<a href="https://github.com/">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-## Lenguajes y Tecnologías
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+</div>
 
 ---
 
-## Estadísticas de GitHub
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pinizo&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinizo&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" width="48%" />
-</p>
+### ABOUT ME
+
+</div>
+
+I'm a student interested in technology, programming and software development.
+
+I enjoy building projects, learning new technologies and experimenting with different ideas.
 
 ---
 
-## Contacto
-[![Web Portfolio](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)]([https://TU-SITIO-WEB.com](https://theuselessweb.com/))
-[![X / Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/pinizoyt)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pinizo.dev@gmail.com)
+<div align="center">
+
+### TECHNOLOGIES
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,php,lua,git,github,vscode" alt="Technologies">
+
+</div>
+
+---
+
+<div align="center">
+
+### PROJECTS
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**Web Development**
+
+<br>
+
+Websites, tools and web applications.
+
+</td>
+
+<td align="center" width="50%">
+
+**Software**
+
+<br>
+
+Personal projects and experiments.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+### ACTIVITY
+
+<img src="https://github-readme-stats.vercel.app/api?username=pinizo&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats">
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>Building. Learning. Experimenting.</sub>
+
+</div>
