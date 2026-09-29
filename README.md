@@ -2,86 +2,35 @@
 
 # PINIZO
 
-**Student · Developer · Technology**
+### Student · Developer · Technology
 
 <br>
-
-<a href="https://github.com/">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ABOUT ME
-
-</div>
 
 I'm a student interested in technology, programming and software development.
 
-I enjoy building projects, learning new technologies and experimenting with different ideas.
-
----
-
-<div align="center">
-
-### TECHNOLOGIES
+I don't really know what to put here yet.
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,php,lua,git,github,vscode" alt="Technologies">
+<a href="https://github.com/Pinizo">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-</div>
+<br><br>
 
----
+### CONTACT
 
-<div align="center">
-
-### PROJECTS
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-**Web Development**
+If you want to get in touch, feel free to contact me.
 
 <br>
 
-Websites, tools and web applications.
+<a href="mailto:contact@example.com">
+  <img src="https://img.shields.io/badge/Contact-181717?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-</td>
+<br><br>
 
-<td align="center" width="50%">
-
-**Software**
-
-<br>
-
-Personal projects and experiments.
-
-</td>
-</tr>
-</table>
+<sub>Still figuring things out.</sub>
 
 </div>
 
----
-
-<div align="center">
-
-### ACTIVITY
-
-<img src="https://github-readme-stats.vercel.app/api?username=pinizo&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats">
-
-</div>
-
----
-
-<div align="center">
-
-<sub>Building. Learning. Experimenting.</sub>
-
-</div>
